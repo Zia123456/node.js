@@ -3,3 +3,9 @@ function sayHello(){
 }
 
 sayHello();
+
+function sayBy(){
+    console.log("Bye");
+}
+
+sayBy();
