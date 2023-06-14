@@ -9,3 +9,9 @@ function sayBy(){
 }
 
 sayBy();
+
+function greating() {
+    console.log("how are you?");
+}
+
+greating();
