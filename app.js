@@ -15,3 +15,9 @@ function greating() {
 }
 
 greating();
+
+function response() {
+    console.log("I am fine");
+}
+
+response();
