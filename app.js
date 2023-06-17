@@ -1,5 +1,2 @@
-function sayHello(){
-    console.log(module);
-}
-
+require('./logger.js');
 
