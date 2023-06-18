@@ -1,2 +1,5 @@
-require('./logger.js');
+require('./logger');
 
+function hello() {
+    console.log('hello');
+}
