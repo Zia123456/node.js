@@ -1,5 +1,3 @@
-require('./logger');
+const logger = require('.logger');
 
-function hello() {
-    console.log('hello');
-}
+logger.log('message');
