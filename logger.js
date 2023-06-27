@@ -5,3 +5,10 @@ function log(message) {
 }
 
 module.exports.log = log;
+
+
+function hello(name) {
+    console.log('hello' + name);
+}
+
+module.exports.hello = hello;
