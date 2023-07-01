@@ -9,7 +9,7 @@ function log(message) {
 module.exports = log;
 
 function hello(name) {
-  console.log('hello' + name);
+  console.log('Fuck you', name);
 }
 
 module.exports.hello = hello;
